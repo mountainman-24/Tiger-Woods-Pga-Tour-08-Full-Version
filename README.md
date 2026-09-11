@@ -241,3 +241,6 @@ This repository serves as the official landing page for **Tiger Woods PGA Tour 0
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Tiger Woods PGA Tour 08 today!**
+
+---
+**Last updated:** 2026-09-11 06:59:14 UTC
