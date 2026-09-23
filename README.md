@@ -243,4 +243,4 @@ This repository serves as the official landing page for **Tiger Woods PGA Tour 0
 **Get the most recent version of Tiger Woods PGA Tour 08 today!**
 
 ---
-**Last updated:** 2026-09-23 09:03:12 UTC
+**Last updated:** 2026-09-23 14:39:30 UTC
